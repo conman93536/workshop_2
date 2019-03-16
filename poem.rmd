@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Math_115"
+date: "Spring semester"
 output: html_document
 ---
 
@@ -24,3 +24,19 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+And then the day came,
+
+when the risk
+
+to remain tight
+
+in a bud
+
+was more painful
+
+than the risk
+
+it took
+
+to blossom.
